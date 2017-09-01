@@ -1,3 +1,5 @@
+// config/webpack/development.js
 const environment = require('./environment')
-
-module.exports = environment.toWebpackConfig()
+const config = environment.toWebpackConfig()
+config.devServer.watchContentBase = false
+module.exports = config
