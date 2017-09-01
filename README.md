@@ -1,24 +1,9 @@
-# README
+# Testing Webpacker Rails
+ to stay up to date with the cool kids
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Setup && Run
+```shell
+./bin/server
+```
+This will perform `bundle/yarn install` for dependencies as well as start the `dev-server` 💪
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
