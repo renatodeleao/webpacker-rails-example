@@ -4,6 +4,8 @@
   "dependencies": {
     "@rails/webpacker": "^3.0.0",
     "babel-plugin-module-resolver": "^2.7.1",
+    "mappy-breakpoints": "^0.2.3",
+    "normalize.css": "^7.0.0"
   },
   "devDependencies": {
     "webpack-dev-server": "^2.7.1"

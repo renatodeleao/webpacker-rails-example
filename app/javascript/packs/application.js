@@ -8,7 +8,7 @@
 // layout file, like app/views/layouts/application.html.erb
 
 // Require or import the counter module
-import '../counter/index';
-import '../styles/index';
+import '../counter/index.js';
+import '../stylesheets/index.scss';
 
-console.log('Hello World from Webpacker')
+console.log('Hello World from Webpacker');

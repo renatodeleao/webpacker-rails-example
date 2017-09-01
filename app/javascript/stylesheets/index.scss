@@ -1,0 +1,10 @@
+@import '~normalize.css';
+@import '~mappy-breakpoints';
+
+//BASE
+@import './base/b.document';
+
+// COMPONENTS
+@import '../counter/style'; // test
+@import './components/c.counter';
+
